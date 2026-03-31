@@ -1,0 +1,14 @@
+# Ignorar o(s) arquivo(s)
+estudo-libft.bat
+
+# --> Outros exemplos:
+
+# . Uma pasta
+# nome_da_pasta/
+
+# . Arquivo de log
+# .log
+
+# . Arq de config sensível
+# .env
+# config.local.json
